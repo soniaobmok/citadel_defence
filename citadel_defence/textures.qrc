@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/barricade.png</file>
+        <file>textures/catapult.png</file>
+        <file>textures/citadel.png</file>
+        <file>textures/goblin.png</file>
+        <file>textures/knight.png</file>
+        <file>textures/orc.png</file>
+        <file>textures/ram.png</file>
+        <file>textures/background.png</file>
+    </qresource>
+</RCC>
